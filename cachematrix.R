@@ -1,6 +1,5 @@
-
 ## Write a short comment describing this function
-
+## Make cacheMatrix
 makeCacheMatrix <- function(x = matrix()) {
 I = NULL
   get = function(){
